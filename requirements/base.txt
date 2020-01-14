@@ -1,4 +1,4 @@
 Django>=1.8
-tablib
+tablib==0.13.0
 diff-match-patch
 openpyxl
